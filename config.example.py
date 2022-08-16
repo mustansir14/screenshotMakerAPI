@@ -1,0 +1,7 @@
+PROXY_TYPE = "http" # socks5 or http
+PROXY = "PROXY SERVER"
+PROXY_PORT = 45785
+
+#if applicable
+PROXY_USER = "YOUR PROXY USER"
+PROXY_PASS = "YOUR PROXY PASS"

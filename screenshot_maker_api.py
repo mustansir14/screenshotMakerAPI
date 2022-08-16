@@ -1,4 +1,3 @@
-from importlib.metadata import requires
 from flask import Flask, request
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options

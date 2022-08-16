@@ -1,4 +1,4 @@
-# screenshotTakerAPI
+# Screenshot Taker API
 
 ## Endpoint: 
 /api/v1/screenshot
